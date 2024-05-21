@@ -1,4 +1,4 @@
-# Loan Default Prediction Case Study
+# Lending Club Case Study
 
 ## Problem Statement
 
