@@ -41,10 +41,7 @@
 - **Seaborn:** 2.1.4
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+Collaborative work by [@sathiyanathan] and [@ushasis02]
 
 ## Contact
 Created by [@sathiyanathan27] - feel free to contact me!
