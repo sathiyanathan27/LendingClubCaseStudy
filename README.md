@@ -1,4 +1,4 @@
-# Loan Default Prediction Case Study
+# Lending Club Case Study
 > This project explores how real business problems are solved using Exploratory Data Analysis (EDA). It focuses on developing a basic understanding of risk analytics in banking and financial services, specifically how data is used to minimize the risk of losing money while lending to customers.
 
 ## Table of Contents
