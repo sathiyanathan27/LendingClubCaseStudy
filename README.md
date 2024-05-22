@@ -15,7 +15,7 @@
 - **Dataset:** The dataset contains information about past loan applicants and whether they defaulted or not. The goal is to identify patterns that indicate if a person is likely to default. This information can be used to make decisions such as denying the loan, reducing the loan amount, or lending at a higher interest rate to risky applicants.
 
 ## Conclusions
-- After univariate analysis, we derived 10 driver variables.
+- After univariate analysis, we derived 10 driver variables - indicators for loan default
 - Bivariate analysis is performed to identify relationships between:
   1. pub_rec and pub_rec_bankruptcies
   2. Grade and sub_grade
