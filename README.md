@@ -16,7 +16,7 @@
 
 ## Conclusions
 - After univariate analysis, we derived 10 driver variables - indicators for loan default
-- Bivariate analysis is performed to identify relationships between:
+- Bivariate analysis is performed and identified relationships between:
   1. pub_rec and pub_rec_bankruptcies
   2. Grade and sub_grade
 - From this analysis, we derived 8 driving factors for loan default.
